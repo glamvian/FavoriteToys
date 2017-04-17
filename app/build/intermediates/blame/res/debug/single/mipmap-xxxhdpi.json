@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/glamvian/AndroidStudioProjects/FavoriteToys/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/glamvian/AndroidStudioProjects/FavoriteToys/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/glamvian/AndroidStudioProjects/FavoriteToys/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/glamvian/AndroidStudioProjects/FavoriteToys/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
