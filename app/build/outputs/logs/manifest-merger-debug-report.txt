@@ -24,7 +24,6 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /home/glamvian/.andr
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/86dbe134134894efff7ce745c980bcd714fe2318/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/30f26b2a8b9025f7c19535c1fbcf6a3a2212549b/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/glamvian/.android/build-cache/dc21667fa1f2b71935fddba4028f8377f02caf43/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glamvian/.android/build-cache/4078e10ee221b8923e96c2d4daf6b8e87e3d2613/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /home/glamvian/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -62,7 +61,6 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /home/glamvian/.andr
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/86dbe134134894efff7ce745c980bcd714fe2318/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/glamvian/.android/build-cache/30f26b2a8b9025f7c19535c1fbcf6a3a2212549b/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] /home/glamvian/.android/build-cache/dc21667fa1f2b71935fddba4028f8377f02caf43/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/glamvian/.android/build-cache/4078e10ee221b8923e96c2d4daf6b8e87e3d2613/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/glamvian/.android/build-cache/9aed397bbb4eb58288cc4d301e32d5f86cca74b9/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
