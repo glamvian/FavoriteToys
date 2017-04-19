@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String [] namaMainan = KotakMainan.getNamaMainan();
         //loop untuk mendapatkan listnama mainan dan memisahkan setiap nama mainan dengan tiga separator /n
         for ( String mainan : namaMainan){
-            mListToysTextview.append(namaMainan+ "/n/n/n");
+            mListToysTextview.append(mainan + "\n\n\n");
         }
     }
 }
